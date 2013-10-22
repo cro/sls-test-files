@@ -1,0 +1,4 @@
+nginx:
+  pkg:
+    - installed
+
